@@ -1,0 +1,3 @@
+[submodule "cc.fyi.common"]
+	path = cc.fyi.common
+	url = git@github.com:buckfullingham/cc.fyi.common.git
